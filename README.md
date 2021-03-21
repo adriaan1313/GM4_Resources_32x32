@@ -9,5 +9,6 @@ For more information about Gamemode 4, visit https://www.gm4.co
 
 Faithful's site: https://faithful.team/
 Note: this was made for putting over the standard GM4 Resources and should not be used without.
-
 Also this was made with a pre-jappa version of faithful.
+
+This was first made in https://github.com/Adriaan1313/GM4_Datapacks, but now has been moved to its own repo
