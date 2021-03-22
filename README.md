@@ -14,19 +14,21 @@ Also this was made with a pre-jappa version of faithful.
 This was first made in https://github.com/Adriaan1313/GM4_Resources, but now has been moved to its own repo
 
 To Do: 
-- [ ] Zauber Armour
-- [ ] Wormhole in a Bottle
-- [ ] Waders
+
 - [x] Trapped Signs
 - [x] Secret Trapped Signs
-- [ ] TNT Mine Stuff
-- [ ] Ore Lumps
-- [ ] SCUBA Tank
-- [ ] SCUBA Helmet
-- [ ] Relocators
 - [x] Message in a Bottle
 - [x] Magic in a Bottle
 - [x] Lightning Rod
+- [x] SCUBA Helmet
+- [x] Defuse Shamir
+- [ ] Zauber Armour
+- [ ] Wormhole in a Bottle
+- [ ] Waders
+- [ ] TNT Mine Stuff
+- [ ] Ore Lumps
+- [ ] SCUBA Tank
+- [ ] Relocators
 - [ ] Larvae
 - [ ] Heart Canisters
 - [ ] Flippers
@@ -38,4 +40,8 @@ To Do:
 - [ ] Boots of Ostara
 - [ ] Bat Leather
 - [ ] Metal Shamirs
-- [x] Defuse Shamir
+
+
+
+
+*: sort of wierdly upscaled with faithful base, can be better
