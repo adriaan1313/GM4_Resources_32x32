@@ -12,3 +12,30 @@ Note: this was made for putting over the standard GM4 Resources and should not b
 Also this was made with a pre-jappa version of faithful.
 
 This was first made in https://github.com/Adriaan1313/GM4_Resources, but now has been moved to its own repo
+
+To Do: 
+- [ ] Zauber Armour
+- [ ] Wormhole in a Bottle
+- [ ] Waders
+- [x] Trapped Signs
+- [x] Secret Trapped Signs
+- [ ] TNT Mine Stuff
+- [ ] Ore Lumps
+- [ ] SCUBA Tank
+- [ ] SCUBA Helmet
+- [ ] Relocators
+- [x] Message in a Bottle
+- [x] Magic in a Bottle
+- [x] Lightning Rod
+- [ ] Larvae
+- [ ] Heart Canisters
+- [ ] Flippers
+- [ ] Everstone
+- [ ] Enchanted Prismarine*
+- [ ] Effect Crystals
+- [ ] Metalurgy Bands*
+- [ ] Charred Shell*
+- [ ] Boots of Ostara
+- [ ] Bat Leather
+- [ ] Metal Shamirs
+- [x] Defuse Shamir
