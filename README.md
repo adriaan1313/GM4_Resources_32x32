@@ -40,6 +40,7 @@ To Do: Items:
 - [ ] Boots of Ostara
 - [ ] Bat Leather
 - [ ] Metal Shamirs
+- [ ] AppleTrees
 
 Blocks: 
 - [x] Compressor
