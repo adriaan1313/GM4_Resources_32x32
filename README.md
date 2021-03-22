@@ -13,7 +13,7 @@ Also this was made with a pre-jappa version of faithful.
 
 This was first made in https://github.com/Adriaan1313/GM4_Resources, but now has been moved to its own repo
 
-To Do: 
+To Do: Items: 
 
 - [x] Trapped Signs
 - [x] Secret Trapped Signs
@@ -41,7 +41,16 @@ To Do:
 - [ ] Bat Leather
 - [ ] Metal Shamirs
 
-
-
+Blocks: 
+- [x] Compressor
+- [x] Custom Crafter
+- [x] Master Crafter
+- [x] Disassembler
+- [x] Enchantment Extractor
+- [x] Smeltery
+- [x] Tinkering Compressor
+- [ ] Smeltery Display Things
+- [ ] Smeltery Glass
+- [ ] Ender Hopper Eye 
 
 *: sort of wierdly upscaled with faithful base, can be better
