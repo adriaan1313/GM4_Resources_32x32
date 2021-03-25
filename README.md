@@ -34,9 +34,9 @@ To Do: Items:
 - [ ] Heart Canisters
 - [ ] Flippers
 - [ ] Everstone
-- [ ] Enchanted Prismarine*
+- [x] Enchanted Prismarine
 - [ ] Effect Crystals
-- [ ] Metalurgy Bands*
+- [x] Metalurgy Bands
 - [ ] Charred Shell*
 - [ ] Boots of Ostara
 - [ ] Bat Leather
