@@ -23,6 +23,8 @@ To Do: Items:
 - [x] SCUBA Helmet
 - [x] Defuse Shamir
 - [x] Enderpuff **
+- [x] Enchanted Prismarine
+- [x] Metalurgy Bands
 - [ ] Zauber Armour
 - [ ] Wormhole in a Bottle
 - [ ] Waders
@@ -34,9 +36,7 @@ To Do: Items:
 - [ ] Heart Canisters
 - [ ] Flippers
 - [ ] Everstone
-- [x] Enchanted Prismarine
 - [ ] Effect Crystals
-- [x] Metalurgy Bands
 - [ ] Charred Shell*
 - [ ] Boots of Ostara
 - [ ] Bat Leather
