@@ -13,7 +13,7 @@ Also this was made with a pre-jappa version of faithful.
 
 This was first made in https://github.com/Adriaan1313/GM4_Resources, but now has been moved to its own repo
 
-To Do: Items: 
+To Do: Items:
 
 - [x] Trapped Signs
 - [x] Secret Trapped Signs
@@ -25,7 +25,7 @@ To Do: Items:
 - [x] Enderpuff **
 - [x] Enchanted Prismarine
 - [x] Metalurgy Bands
-- [x] Charred Shell*
+- [x] Charred Shell
 - [ ] Zauber Armour
 - [ ] Wormhole in a Bottle
 - [ ] Waders
@@ -43,7 +43,7 @@ To Do: Items:
 - [ ] Metal Shamirs
 - [ ] AppleTrees
 
-Blocks: 
+Blocks:
 - [x] Compressor
 - [x] Custom Crafter
 - [x] Master Crafter
@@ -53,7 +53,7 @@ Blocks:
 - [x] Tinkering Compressor
 - [ ] Smeltery Display Things
 - [ ] Smeltery Glass
-- [ ] Ender Hopper Eye 
+- [ ] Ender Hopper Eye
 
 *: sort of wierdly upscaled with faithful base, can be better
 
