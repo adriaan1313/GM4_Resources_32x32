@@ -27,6 +27,8 @@ To Do: Items:
 - [x] Metalurgy Bands
 - [x] Charred Shell
 - [x] Bat Leather
+- [ ] Metal Shamirs
+   - [x] Axe 
 - [ ] Zauber Armour
 - [ ] Wormhole in a Bottle
 - [ ] Waders
@@ -40,7 +42,6 @@ To Do: Items:
 - [ ] Everstone
 - [ ] Effect Crystals
 - [ ] Boots of Ostara
-- [ ] Metal Shamirs
 - [ ] AppleTrees
 
 Blocks:
