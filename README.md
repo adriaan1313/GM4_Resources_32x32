@@ -26,6 +26,7 @@ To Do: Items:
 - [x] Enchanted Prismarine
 - [x] Metalurgy Bands
 - [x] Charred Shell
+- [x] Bat Leather
 - [ ] Zauber Armour
 - [ ] Wormhole in a Bottle
 - [ ] Waders
@@ -39,7 +40,6 @@ To Do: Items:
 - [ ] Everstone
 - [ ] Effect Crystals
 - [ ] Boots of Ostara
-- [ ] Bat Leather
 - [ ] Metal Shamirs
 - [ ] AppleTrees
 
