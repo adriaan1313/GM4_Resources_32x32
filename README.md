@@ -29,6 +29,7 @@ To Do: Items:
 - [x] Bat Leather
 - [ ] Metal Shamirs
    - [x] Axe 
+   - [x] Hoe
 - [ ] Zauber Armour
 - [ ] Wormhole in a Bottle
 - [ ] Waders
