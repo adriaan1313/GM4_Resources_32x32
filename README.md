@@ -43,6 +43,7 @@ To Do: Items:
 - [ ] Effect Crystals
 - [ ] Boots of Ostara
 - [ ] AppleTrees
+- [ ] PS7 stuff
 
 Blocks:
 - [x] Compressor
