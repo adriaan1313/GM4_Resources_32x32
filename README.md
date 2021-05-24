@@ -54,10 +54,12 @@ Blocks:
 - [x] Enchantment Extractor
 - [x] Smeltery
 - [x] Tinkering Compressor
-- [ ] Smeltery Display Things
-- [ ] Smeltery Glass
+- [x] Smeltery Display Things***
+
 - [ ] Ender Hopper Eye
 
 *: sort of wierdly upscaled with faithful base, can be better
 
 **: not actually enderpuff, just a recoloured pufferfish
+
+***: except chorus fruit
