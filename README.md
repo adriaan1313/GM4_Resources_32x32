@@ -55,8 +55,11 @@ Blocks:
 - [x] Smeltery
 - [x] Tinkering Compressor
 - [x] Smeltery Display Things***
-
 - [ ] Ender Hopper Eye
+
+Entities:
+- [ ] PS7 stuff
+- [ ] TNT Mine Stuff
 
 *: sort of wierdly upscaled with faithful base, can be better
 
