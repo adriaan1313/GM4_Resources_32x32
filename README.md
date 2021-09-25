@@ -38,7 +38,7 @@ To Do: Items:
 - [ ] SCUBA Tank
 - [ ] Relocators
 - [ ] Larvae
-- [ ] Heart Canisters
+- [x] Heart Canisters
 - [ ] Flippers
 - [ ] Everstone
 - [ ] Effect Crystals
@@ -59,7 +59,7 @@ Blocks:
 
 Entities:
 - [ ] PS7 stuff
-- [ ] TNT Mine Stuff
+- [x] TNT Mine Stuff
 
 *: sort of wierdly upscaled with faithful base, can be better
 
