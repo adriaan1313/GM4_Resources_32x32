@@ -3,6 +3,7 @@ Welcome to the repository for the Gamemode 4 resource pack with Faithful. This p
 
 GM4 Datapacks: https://github.com/Gamemode4Dev/GM4_Datapacks
 Original GM4 Resources: https://github.com/Gamemode4Dev/GM4_Resources
+
 [Faithful](https://github.com/FaithfulTeam/Faithful), originally by [Vattic](https://www.minecraftforum.net/members/Vattic) ([More details](https://www.youtube.com/watch?v=kgZYBTlwaVs))
 
 For more information about Gamemode 4, visit https://www.gm4.co
