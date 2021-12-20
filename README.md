@@ -9,7 +9,7 @@ Original GM4 Resources: https://github.com/Gamemode4Dev/GM4_Resources
 For more information about Gamemode 4, visit https://www.gm4.co
 
 Note: this was made for putting over the standard GM4 Resources and should not be used without.
-Also this was based on a version of Faithful based on a 1.14 version of Faithfulx32 by Faithful.Team called "Le pack 2.0 + extras" by [Hozz](https://github.com/hozz8528), updated with textures from Faithfulx32 by Faithful.Team.
+Also this was based on a [version](https://dustertje.github.io/?url=lP2.0) of Faithful based on a 1.14 version of Faithfulx32 by Faithful.Team called "Le pack 2.0 + extras" by [Hozz](https://github.com/hozz8528), updated with textures from Faithfulx32 by Faithful.Team.
 
 This was first made in https://github.com/Adriaan1313/GM4_Resources, but now has been moved to its own repo
 
